@@ -11,6 +11,7 @@ import ContactPage from './pages/ContactPage';
 import ProductsPage from './pages/ProductsPage';
 import DistributorTable from './pages/Distributors';
 import './pages/index.css';
+import whatsappbutton from './components/ui/insightsbutton';
 
 // Create a wrapper component that uses useLocation
 function AppContent() {
@@ -83,6 +84,9 @@ function AppContent() {
       </Routes>
       {!hideLayout && <Footer />}
     </div>
+    
+
+    
   );
 }
 

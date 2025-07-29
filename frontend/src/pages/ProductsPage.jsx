@@ -364,7 +364,7 @@ const ProductsPage = () => {
     {
       id: "4",
       name: "Lithplex Blue 220",
-      category: "lithplex-blue",
+      category: "lithomax-ep2",
       image: img4,
       rating: 4.6,
       description:

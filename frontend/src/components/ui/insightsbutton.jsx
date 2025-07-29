@@ -1,7 +1,7 @@
 import React from "react";
 
 const InsightsButton = () => {
-  const phoneNumber = "91 77589 36968"; // Replace with your WhatsApp number (no "+" or spaces)
+  const phoneNumber = "919876543210"; // Replace with your WhatsApp number (no "+" or spaces)
   const message = "Hello, I would like to know more about your services!";
   const whatsappLink = `https://wa.me/${phoneNumbe}?text=${encodeURIComponent(message)}`;
 

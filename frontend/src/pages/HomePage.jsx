@@ -272,8 +272,8 @@ const HomePage = () => {
         </div>
       </section>
       <section>
-
-      {/*Button*/}
+      
+      {/**/}
       <div className="relative min-h-screen">
       {/* Your existing homepage content */}
 

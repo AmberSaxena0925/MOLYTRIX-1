@@ -276,7 +276,7 @@ const ProductsPage = () => {
       image: img3,
       rating: 4.7,
       description:
-        "Multi-purpose lithium complex grease with extreme pressure additives. Specially formulated for heavy-duty applications in automotive, industrial, and off-road equipment requiring superior load-carrying capacity.",
+        "This product is a range of lithium soap thickened greases available in different NLGI classes. The product is a general-purpose product designed to perform in a wide variety of application requiring a grease with EP properties and load-carrying capacity. Contains an extreme pressure additive technology which has a low impact on the environment.",
       specifications: [
         "NLGI Grade 2",
         "Lithium Complex Thickener",
@@ -315,7 +315,7 @@ const ProductsPage = () => {
       image: img29,
       rating: 4.3,
       description:
-        "Very soft lithium complex grease ideal for centralized lubrication systems and sealed-for-life applications requiring fluid-like consistency.",
+        "Lithomax EP 00 is a lithium soap thickened grease designed for general-purpose applications requiring extreme pressure (EP) properties and load-carrying capacity. It is suitable for various equipment and mechanisms across industries such as on and off-road, manufacturing, agriculture, mining, marine, and forestry, particularly heavy-duty bearings and general industrial lubrication.",
       specifications: [
         "NLGI Grade 00",
         "Lithium Complex Thickener", 
@@ -332,7 +332,7 @@ const ProductsPage = () => {
       image: img30,
       rating: 4.5,
       description:
-        "Soft lithium complex grease suitable for high-speed bearings and applications where reduced churning and lower operating temperatures are desired.",
+        "LITHOMAX EP 1 is a lithium soap thickened grease from MOLYTRIX PETROCHEM. It's a general-purpose product with EP properties and load-carrying capacity, suitable for a wide range of applications including on and off-road equipment, manufacturing, agriculture, mining, marine, and forestry. It is particularly suitable for heavy-duty bearings and general industrial lubrication.",
       specifications: [
         "NLGI Grade 1",
         "Lithium Complex Thickener",
@@ -349,7 +349,7 @@ const ProductsPage = () => {
       image: img31,
       rating: 4.6,
       description:
-        "Heavy-duty lithium complex grease for applications subjected to shock loading, vibration, and extreme pressures. Ideal for chassis lubrication and heavy equipment.",
+        "This product is a range of lithium soap thickened greases available in different NLGI classes. The product is a general-purpose product designed to perform in a wide variety of application requiring a grease with EP properties and load-carrying capacity. Contains an extreme pressure additive technology which has a low impact on the environment.",
       specifications: [
         "NLGI Grade 3",
         "Lithium Complex Thickener",
@@ -368,7 +368,7 @@ const ProductsPage = () => {
       image: img4,
       rating: 4.6,
       description:
-        "Premium blue-colored lithium complex grease engineered for universal applications. Features excellent mechanical stability, water resistance, and protection against wear and corrosion in demanding industrial environments.",
+        "This product is a lithium complex thickened lubricating grease based on mineral oil. The grease contains antioxidants, corrosion inhibitors, extreme pressure and anti-wear additives. The lithium complex soap makes this grease suitable for applications within a very wide temperature range and specially applications at high temperatures. The complex soap structure also gives the product a high degree of mechanical stability, which prolongs re-lubrication intervals.",
       specifications: [
         "NLGI Grade 2",
         "Lithium Complex Thickener",
